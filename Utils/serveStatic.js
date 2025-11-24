@@ -31,4 +31,4 @@ export async function serveStatic(req, res, baseDir) {
 		}
 	}
 }
-// const 404 = path.extname(404)
+
